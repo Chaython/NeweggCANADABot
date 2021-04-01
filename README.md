@@ -1,4 +1,5 @@
-# NeweggBot
+# NeweggCanadaBot
+A fork of Ataraksia/NeweggBot edited to work with Newegg.ca
 Autonomously buy GPUs from Newegg as soon as they become available
 
 This bot is very much still in the early stages, and more than a little rough around the edges.  Expect the occasional hiccups if you decide to use it.
